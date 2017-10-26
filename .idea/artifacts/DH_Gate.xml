@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DH.Gate">
+    <output-path>$PROJECT_DIR$/out/artifacts/DH_Gate</output-path>
+    <root id="archive" name="JavaApp1.jar">
+      <element id="module-output" name="JavaApp1" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/apache-log4j-2.9.1-bin/log4j-core-2.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/fast/fastjson-1.2.39.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/apache-log4j-2.9.1-bin/log4j-api-2.9.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
